@@ -23,8 +23,7 @@ public class Filtrador {
     public static void main(String[] args) {
 
         String nombreArchivo = "";
-        
-        
+
         Logger logger = Logger.getLogger("filtrador");
         FileHandler fh = null;
         try {
@@ -39,10 +38,8 @@ public class Filtrador {
         logger.setLevel(Level.ALL);
         SimpleFormatter formatter = new SimpleFormatter();
         fh.setFormatter(formatter);
-        
-        
-        
-        registrarEvento("START",logger);
+
+        registrarEvento("START", logger);
 
         // Analizamos los posibles argumentos pasados al proceso
         if (args.length == 1) {
@@ -60,7 +57,7 @@ public class Filtrador {
             try (FileReader fr = new FileReader(nombreArchivo);
                     BufferedReader entrada = new BufferedReader(fr);) {
 
-                registrarEvento("OPEN_FILE_DONE",logger, nombreArchivo);
+                registrarEvento("OPEN_FILE_DONE", logger, nombreArchivo);
                 //definimos el patrón que debe cumplir cada registro
                 Pattern patron = Pattern.compile("[a-z0-9]{6,10}:[a-zA-Z0-9]{8,12}");
 
@@ -75,10 +72,10 @@ public class Filtrador {
                         //comprobamos que la contraseña no sea igual al nombre de usuario. En tal caso, descartamos este registro
                         if (parts[0] != parts[1]) {
                             usuarios.put(parts[0], parts[1]);
-                            registrarEvento("VALID_ACCOUNT",logger, linea);
+                            registrarEvento("VALID_ACCOUNT", logger, linea);
                         }
                     } else if (!m.matches()) {
-                        registrarEvento("INVALID_ACCOUNT",logger, linea);
+                        registrarEvento("INVALID_ACCOUNT", logger, linea);
 
                     }
                     linea = entrada.readLine(); //leemos la siguiente línea del archivo   
@@ -94,48 +91,46 @@ public class Filtrador {
                     System.out.print(i + ": usuario= " + entry.getKey() + " passwd= " + entry.getValue() + "\n");
                     i++;
                 }
-                registrarEvento("END",logger);
+                registrarEvento("END", logger);
 
             } catch (FileNotFoundException e) {
                 System.out.println("Error: archivo " + nombreArchivo + "·no encontrado.");
-                registrarEvento("OPEN_FILE_FAIL",logger , nombreArchivo);
-                registrarEvento("END",logger);
+                registrarEvento("OPEN_FILE_FAIL", logger, nombreArchivo);
+                registrarEvento("END", logger);
 
             } catch (IOException e) {
                 System.out.println("Error: fallo en el acceso al archivo: " + e.getMessage());
-                registrarEvento("OPEN_FILE_FAIL",logger, nombreArchivo);
-                registrarEvento("END",logger);
+                registrarEvento("OPEN_FILE_FAIL", logger, nombreArchivo);
+                registrarEvento("END", logger);
             }
 
         } else if (args.length == 0) {
             System.out.println("Error. No ha introducido ningún argumento por consola");
-            registrarEvento("ARGUMENT_NOT_FOUND",logger);
-            registrarEvento("END",logger);
+            registrarEvento("ARGUMENT_NOT_FOUND", logger);
+            registrarEvento("END", logger);
         } else {
             System.out.println("Error. Debe introducir un único argumento por consola");
-            registrarEvento("ARGUMENT_NOT_FOUND",logger);
-            registrarEvento("END",logger);
+            registrarEvento("ARGUMENT_NOT_FOUND", logger);
+            registrarEvento("END", logger);
         }
     }
-    
-    
-    
-    
-    
-   
-    
 
+    /**
+     * Método que gestiona los mensajes log. Recoge como argumentos el tipo de
+     * evento a registrar y el objeto Logger declarado en el método main.
+     *
+     * @param mensaje
+     * @param logger
+     */
     public static void registrarEvento(String mensaje, Logger logger) {
 
         switch (mensaje) {
 
-            
             case "START":
 
                 logger.log(Level.INFO, "INFORMACIÓN: Aplicación iniciada\n");
-                
+
                 break;
-                
 
             case "ARGUMENT_NOT_FOUND":
 
@@ -146,37 +141,45 @@ public class Filtrador {
             case "END":
 
                 logger.log(Level.INFO, "INFORMACIÓN: Aplicación finalizada\n\n\n\n\n\n\n\n");
-                
+
                 break;
             default:
         }
-
     }
 
+    /**
+     * Método que gestiona los mensajes log. Recoge como argumentos el tipo de
+     * evento a registrar, el objeto Logger declarado en el método main y un
+     * último argumento para completar los registros log.
+     *
+     * @param mensaje
+     * @param logger
+     * @param argumento
+     */
     public static void registrarEvento(String mensaje, Logger logger, String argumento) {
 
         switch (mensaje) {
 
             case "OPEN_FILE_DONE":
 
-                logger.log(Level.INFO, "INFORMACIÓN: Archivo abierto: " + argumento+"\n");
+                logger.log(Level.INFO, "INFORMACIÓN: Archivo abierto: " + argumento + "\n");
 
                 break;
             case "OPEN_FILE_FAIL":
 
-                logger.log(Level.SEVERE, "ERROR: No es posible abrir el archivo: " + argumento+"\n");
+                logger.log(Level.SEVERE, "ERROR: No es posible abrir el archivo: " + argumento + "\n");
 
                 break;
 
             case "VALID_ACCOUNT":
 
-                logger.log(Level.INFO, "Cuenta de usuario válida. Línea aceptada: " + argumento+"\n");
+                logger.log(Level.INFO, "Cuenta de usuario válida. Línea aceptada: " + argumento + "\n");
 
                 break;
 
             case "INVALID_ACCOUNT":
 
-                logger.log(Level.WARNING, "Cuenta de usuario no válida. Línea rechazada: " + argumento+"\n");
+                logger.log(Level.WARNING, "Cuenta de usuario no válida. Línea rechazada: " + argumento + "\n");
 
                 break;
 
