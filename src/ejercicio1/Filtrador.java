@@ -28,14 +28,14 @@ public class Filtrador {
             try (FileReader fr = new FileReader(nombreArchivo);
                     BufferedReader entrada = new BufferedReader(fr);) {
 
-                Pattern patronProducto = Pattern.compile("([A-Z]\\w+)::([A-Z][\\d])");
+                Pattern patron = Pattern.compile("[a-z0-9]{6,10}:[a-zA-Z0-9]{8,12}");
 
                 String linea = entrada.readLine();
                 while (linea != null) {
                     System.out.println(linea);
-                    Matcher m = patronProducto.matcher(linea);
+                    Matcher m = patron.matcher(linea);
                     if (m.matches()) { // Si la línea cumple las condiciones de estructura
-
+                            System.out.print("Esta línea cumple la estructura\n");
                     }
                     linea = entrada.readLine(); //se lee la siguiente línea del archivo   
                 }
