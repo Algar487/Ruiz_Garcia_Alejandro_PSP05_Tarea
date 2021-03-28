@@ -1,88 +1,10 @@
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:50:28 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
 
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
+mar 28, 2021 10:50:28 PM ejercicio2.Filtrador registrarEvento
+GRAVE: ERROR: No se ha especificado correctamente el nombre del archivo por consola
 
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:02:23 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:50:28 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
 
 
@@ -92,91 +14,13 @@ INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
 
 
 
-mar 28, 2021 9:03:24 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:50:39 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
 
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
+mar 28, 2021 10:50:39 PM ejercicio2.Filtrador registrarEvento
+GRAVE: ERROR: No es posible abrir el archivo: usuarios2.txt
 
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:03:25 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:50:39 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
 
 
@@ -186,655 +30,91 @@ INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
 
 
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
 
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
-
-
-
-
-
-
-
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:03:26 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
-
-
-
-
-
-
-
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
-
-
-
-
-
-
-
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:03:27 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
-
-
-
-
-
-
-
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:03:29 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
-
-
-
-
-
-
-
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
-
-
-
-
-
-
-
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Aplicación iniciada
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: INFORMACIÓN: Archivo abierto: usuarios.txt
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:00000000
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:11111111
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis02:A1234567
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis03:0123456a
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis04:0123456aB
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis05:abcdefgh
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis06:123456789012
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis12345678:12345678
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu01:1234567890123
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu02:
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:a
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu03:1
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:12345678.
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: manu04:%12345678
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juan
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: :00000000
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: 
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:angelito
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: juanito22:angelito
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: juanito22:juan22
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: angelito:juanito22
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: luis01:reptiendose
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
-ADVERTENCIA: Cuenta de usuario no válida. Línea rechazada: luis01:repe
-
-mar 28, 2021 9:03:30 PM ejercicio2.Filtrador registrarEvento
+mar 28, 2021 10:55:27 PM ejercicio2.Filtrador registrarEvento
 INFORMACIÓN: INFORMACIÓN: Aplicación finalizada
 
 

@@ -98,11 +98,13 @@ public class Filtrador {
 
             } catch (FileNotFoundException e) {
                 System.out.println("Error: archivo " + nombreArchivo + "·no encontrado.");
-                registrarEvento("OPEN_FILE_FILE",logger , nombreArchivo);
+                registrarEvento("OPEN_FILE_FAIL",logger , nombreArchivo);
+                registrarEvento("END",logger);
 
             } catch (IOException e) {
                 System.out.println("Error: fallo en el acceso al archivo: " + e.getMessage());
-                registrarEvento("OPEN_FILE_FILE",logger, nombreArchivo);
+                registrarEvento("OPEN_FILE_FAIL",logger, nombreArchivo);
+                registrarEvento("END",logger);
             }
 
         } else if (args.length == 0) {
